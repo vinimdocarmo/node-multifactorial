@@ -1,0 +1,28 @@
+{
+  "name": "multifactorial",
+  "version": "0.0.0",
+  "description": "Calculate multifactorials",
+  "license": "MIT",
+  "repository": "vinimdocarmo/node-multifactorial",
+  "author": {
+    "name": "Vinícius do Carmo",
+    "email": "vinicius.m.do.carmo@gmail.com",
+    "url": "vinimdocarmo.js.org"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "files": [
+    "index.js",
+    "src/"
+  ],
+  "keywords": [
+    "multifactorial", "factorial"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
