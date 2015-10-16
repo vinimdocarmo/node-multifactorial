@@ -1,6 +1,6 @@
 {
   "name": "multifactorial",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Calculate multifactorials",
   "license": "MIT",
   "repository": "vinimdocarmo/node-multifactorial",
@@ -20,7 +20,8 @@
     "src/"
   ],
   "keywords": [
-    "multifactorial", "factorial"
+    "multifactorial",
+    "factorial"
   ],
   "devDependencies": {
     "mocha": "*"
