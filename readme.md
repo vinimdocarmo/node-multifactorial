@@ -43,13 +43,13 @@ multifactorial(10, 4);
 
 #### number
 
-*Required*  
+*Required*	
 Type: `Number`
 
 #### degree
 
-*Optional*  
-Type: `Number`
+*Optional*	
+Type: `Number`	
 Default: 1
 
 ## License
