@@ -1,6 +1,6 @@
 {
   "name": "multifactorial",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculate multifactorials",
   "license": "MIT",
   "repository": "vinimdocarmo/node-multifactorial",
